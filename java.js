@@ -50,7 +50,7 @@ function setName() {
         result = 'Имя ' + aidai.name + ' Фамилия ' + aidai.firstname + ' возрост ' + aidai.age + ' Рост ' + aidai.high;
     }
     else if(name == 'Бакыт'){
-        result = 'Имя ' + by.name + ' Фамилия ' + by.firstname + ' возрост ' + by.age + ' Рост ' + by.high;
+        result = 'Имя ' + by.name + ' , фамилия ' + by.firstname + ', возрост ' + by.age + ', рост ' + by.high;
     }
     else if(name == 'Темирлан'){
         result = 'Имя ' + tem.name + ' Фамилия ' + tem.firstname + ' возрост ' + tem.age + ' Рост ' + tem.high;
